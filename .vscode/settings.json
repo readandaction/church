@@ -1,0 +1,10 @@
+{
+  "python.pythonPath": "/Users/BaekChanjong/.local/share/virtualenvs/church-AKENbbme/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+"python.linting.flake8Args": [
+    "--max_line_length=88"
+],
+"python.formatting.provider": "black"
+}
